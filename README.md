@@ -1,15 +1,13 @@
 # WordPress Project
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+# Login
+user: mohamed
+password: Mm1111@12222
+
+# Usage
+click book now and navigate to checkout form
+click on Monthly plan and price will change by plan's price
+form data printed in sweet alert
 
 ## Introduction
 This project is a WordPress-based website designed for [describe the purpose of the website]. It includes custom themes, plugins, and specific configurations to meet the needs of [describe your target audience or use case].
